@@ -36,11 +36,17 @@ The goal of this task was to build a responsive **flight search results interfac
 ## 📁 Project Structure
 
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── App.js
+
 │   ├── App.scss
+
 ├── package.json
+
 ├── README.md
 
 
