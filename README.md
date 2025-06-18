@@ -53,4 +53,5 @@ The goal of this task was to build a responsive **flight search results interfac
 ## 🎓 Certificate
 
 This project was completed as part of the Skyscanner Virtual Internship on Forage.
+
 [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_Su4MatrFAttePQAgA_1750277140937_completion_certificate.pdf)
